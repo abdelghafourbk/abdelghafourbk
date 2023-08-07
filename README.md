@@ -31,7 +31,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-    [![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,js,html,css,c,figma,androidstudio,blender,dart,discord,eclipse,firebase,git,github,gradle,linux,mongodb,php,py,qt,xd&perline=15)](https://skillicons.dev)
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,nodejs,js,html,css,c,figma,androidstudio,blender,dart,discord,eclipse,firebase,git,github,gradle,linux,mongodb,php,py,qt,xd"/>
+      </a>
 </p>
 
 <br>
